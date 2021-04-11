@@ -12,7 +12,7 @@ To run this react app, you should first download Node.js from https://nodejs.org
 
 ## Available Scripts
 
-In the project directory, you can run:
+Navigate to the cloned project directory and run:
 
 ### `npm install`
 
