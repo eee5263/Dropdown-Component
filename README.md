@@ -4,7 +4,7 @@
 
 Navigate to a local folder and use this command to clone the repository:
 
-$ git clone https://github.com/eee5263/Dropdown-Component/
+git clone https://github.com/eee5263/Dropdown-Component/
 
 ### Node.js
 
